@@ -22,3 +22,13 @@ button{
     font-family: verdana;
     margin: 1rem;
 }
+
+#slowdown:hover{
+    background: red;
+    font-size: 25px;
+}
+
+#speedup:hover{
+    background: blue;
+    font-size: 25px;
+}
